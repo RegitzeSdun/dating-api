@@ -1,0 +1,14 @@
+{
+    "server": "datingserver.database.windows.net",
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "Nicolai",
+            "password": "dengodestekode1!"
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database": "dating"
+    }
+}
